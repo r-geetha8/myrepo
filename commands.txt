@@ -312,3 +312,28 @@
   311  git checkout -- contact.html
   312  ls
   313  history > commands.txt
+  314  history
+  315  clear
+  316  git status
+  317  git add *
+  318  git commit -m "commited commands file":
+  319  ls
+  320  git ls-files
+  321  git rm contact.html 
+  322  ls
+  323  git ls-files
+  324  git status
+  325  git reset HEAD contact.html
+  326  git status
+  327  git checkout -- contact.html
+  328  git rm --staged contact.html 
+  329  git rm --cached contact.html 
+  330  ls
+  331  git ls-files
+  332  git status
+  333  git reset HEAD contact.html
+  334  git status
+  335  git rm --cached contact.html 
+  336  git status
+  337  vi .gitignore
+  338  history > commands.txt
