@@ -1,0 +1,314 @@
+    1  ssh -i "mynewkey.pem" ec2-user@ec2-18-224-72-150.us-east-2.compute.amazonaws.com
+    2  cd Downloads/
+    3  ls
+    4  ssh -i "mynewkey.pem" ec2-user@ec2-18-224-72-150.us-east-2.compute.amazonaws.com
+    5  ssh -i "mynewkey.pem" ec2-user@ec2-18-217-97-10.us-east-2.compute.amazonaws.com
+    6  cd Downloads/
+    7  ssh -i "mynewkey.pem" ec2-user@ec2-18-217-97-10.us-east-2.compute.amazonaws.com
+    8  ssh -i "mynewkey.pem" ec2-user@ec2-18-217-97-10.us-east-2.compute.amazonaws.com
+    9  cd Downloads/
+   10  ls | grep *.pem
+   11  ssh -i "mynewkey.pem" ec2-user@ec2-18-191-232-222.us-east-2.compute.amazonaws.com
+   12  chmod 700 mykey.pem
+   13  vi mykey.pem
+   14  ec2-user
+   15  cd c:/downloads
+   16  cd downloads
+   17  cl
+   18  cls
+   19  clear
+   20  chmod 400 mynewkey.pem
+   21  ssh -i "mynewkey.pem" ec2-user@18.219.20.136
+   22  ssh -i "mynewkey.pem" ec2-user@18.219.20.136
+   23  chmod 400 mynewkey.pem
+   24  ssh -i "mynewkey.pem" ec2-user@18.219.20.136
+   25  ssh -i "mynewkey.pem" ec2-user@18.222.129.212
+   26  dd if=/dev/zero of=/dev/null
+   27  ssh -i "mynewkey.pem" ec2-user@13.59.71.98
+   28  ssh -i "mynewkey.pem" ec2-user@18.188.136.80
+   29  ssh -i "mynewkey.pem" ec2-user@10.0.107.40
+   30  vi mynewkey.pem
+   31  ssh -i "mynewkey.pem" ec2-user@18.216.185.151
+   32  chmod 400 mynewkey.pem
+   33  ssh -i "mynewkey.pem" ec2-user@18.216.185.151
+   34  ssh -i "mynewkey.pem" ec2-user@18.191.45.123
+   35  ssh -i "mynewkey.pem" ec2-user@18.191.45.123
+   36  ssh -i "mynewkey.pem" ec2-user@18.216.185.151
+   37  chmod 400 mynewkey.pem
+   38  ssh -i "mynewkey.pem" ec2-user@18.216.185.151
+   39  cd...
+   40  cd..
+   41  chmod 700 mynewkey.pem
+   42  vi mynewkey.pem
+   43  vi mynewkey.pem
+   44  ls
+   45  vi test.html
+   46  vi test.html
+   47  ls
+   48  i mynewkechmod
+   49  chmod 700 mynewkey.pem
+   50  ssh -i mynewkey.pem ec2-user@
+   51  ssh -i mynewkey.pem ec2-user@
+   52  ssh -i mynewkey.pem ec2-user@18.188.136.80
+   53  ssh -i mynewkey.pem ec2-user@18.216.185.151
+   54  chmod 700 mynewkey.pem
+   55  ssh -i mynewkey.pem ec2-user@18.216.185.151
+   56  ssh -i mynewkey.pem ec2-user@18.191.45.123
+   57  ssh -i mynewkey.pem ec2-user@18.191.45.123
+   58  ssh -i mynewkey.pem ec2-user@128.0.122.6
+   59  ls
+   60  vi mynewkey.pem
+   61  ssh -i mynewkey.pem ec2-user@128.0.122.6
+   62  ssh -i mynewkey.pem ec2-user@18.191.45.123
+   63  ssh -i mynewkey.pem ec2-user@18.191.45.123
+   64  chmod 700 mynewkey.pem
+   65  ssh -i "mynewkey.pem" ec2-user@18.191.195.227
+   66  ssh -i "mynewkey.pem" ec2-user@18.191.195.227
+   67  ssh -i "mynewkey.pem" ec2-user@18.191.195.227
+   68  vi mynewkey.pem
+   69  ssh -i "mynewkey.pem" ec2-user@18.191.195.227
+   70  ssh -i "mynewkey.pem" ec2-user@10.0.125.43
+   71  ssh -i "mynewkey.pem" ec2-user@18.191.33.51
+   72  ssh -i "mynewkey.pem" ec2-user@18.191.33.51
+   73  ssh -i "mynewkey.pem" ec2-user@18.218.209.198
+   74  quit
+   75  exit
+   76  ssh -i mynewkey.pem ec2-user@128.0.46.12
+   77  ssh -i mynewkey.pem ec2-user@128.0.46.12
+   78  ssh -i mynewkey.pem ec2-user@18.218.209.198
+   79  ec2-user
+   80  ssh -i "mynewkey.pem" ec2-user@18.191.238.196
+   81  ssh -i mynewkey.pem ec2-user@3.17.81.5
+   82  ssh -i "mynewkey.pem" ec2-user@3.16.130.167
+   83  ssh -i "mynewkey.pem" ec2-user@3.16.130.167
+   84  vi mynewkey.pem
+   85  ls
+   86  ls
+   87  ssh -i "mynewkey.pem" ec2-user@3.16.130.167
+   88  sudo -i
+   89  ls
+   90  clear
+   91  ssh -i "mynewkey.pem" ec2-user@ec2-13-59-135-112.us-east-2.compute.amazonaws.com
+   92  ssh -i "mynewkey.pem" ec2-user@ec2-13-59-135-112.us-east-2.compute.amazonaws.com
+   93  vi mynewkey.pem
+   94  ls
+   95  cd
+   96  ls
+   97  ssh -i "mynewkey.pem" ec2-user@ec2-13-59-135-112.us-east-2.compute.amazonaws.com
+   98  sudo -i
+   99  ec2-user
+  100  git bash
+  101  ssh -i ec2-user@
+  102  ec2-user
+  103  ssh -i ec2-user@
+  104  ramaswamy.geetha@BDC3-LX-867LBH2 MINGW64 ~
+  105  $
+  106  ramaswamy.geetha@BDC3-LX-867LBH2 MINGW64 ~
+  107  $ ssh -i ec2-user@
+  108  Warning: Identity file ec2-user@ not accessible: No such file or directory.
+  109  usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface]
+  110             [-b bind_address] [-c cipher_spec] [-D [bind_address:]port]
+  111             [-E log_file] [-e escape_char] [-F configfile] [-I pkcs11]
+  112             [-i identity_file] [-J [user@]host[:port]] [-L address]
+  113             [-l login_name] [-m mac_spec] [-O ctl_cmd] [-o option] [-p port]
+  114             [-Q query_option] [-R address] [-S ctl_path] [-W host:port]
+  115             [-w local_tun[:remote_tun]] destination [command]
+  116  ramaswamy.geetha@BDC3-LX-867LBH2 MINGW64 ~
+  117  $
+  118  ramaswamy.geetha@BDC3-LX-867LBH2 MINGW64 ~
+  119  $
+  120  ramaswamy.geetha@BDC3-LX-867LBH2 MINGW64 ~
+  121  $
+  122  ramaswamy.geetha@BDC3-LX-867LBH2 MINGW64 ~
+  123  $
+  124  ramaswamy.geetha@BDC3-LX-867LBH2 MINGW64 ~
+  125  ssh -i ec2-user@
+  126  ramaswamy.geetha@BDC3-LX-867LBH2 MINGW64 ~
+  127  $
+  128  ramaswamy.geetha@BDC3-LX-867LBH2 MINGW64 ~
+  129  $ ssh -i ec2-user@
+  130  Warning: Identity file ec2-user@ not accessible: No such file or directory.
+  131  usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface]
+  132             [-b bind_address] [-c cipher_spec] [-D [bind_address:]port]
+  133             [-E log_file] [-e escape_char] [-F configfile] [-I pkcs11]
+  134             [-i identity_file] [-J [user@]host[:port]] [-L address]
+  135             [-l login_name] [-m mac_spec] [-O ctl_cmd] [-o option] [-p port]
+  136             [-Q query_option] [-R address] [-S ctl_path] [-W host:port]
+  137             [-w local_tun[:remote_tun]] destination [command]
+  138  chmod 700 mynewkey.pem
+  139  sudo -i
+  140  ec2-18-223-235-117.us-east-2.compute.amazonaws.com
+  141  ssh -i "mynewkey.pem" ec2-user@ec2-18-223-235-117.us-east-2.compute.amazonaws.com
+  142  yes
+  143  ssh -i "mynewkey.pem" ec2-user@ec2-18-223-235-117.us-east-2.compute.amazonaws.com
+  144  ssh -i "mynewkey.pem" ec2-user@ec2-18-223-235-117.us-east-2.compute.amazonaws.com
+  145  ls
+  146  sudo -i
+  147  ec2-user
+  148  ssh -i "mynewkey.pem" ec2-user@ec2-18-223-235-117.us-east-2.compute.amazonaws.co
+  149  chmod 400 mynewkey.pem
+  150  ssh -i "mynewkey.pem" ec2-user@18.191.157.176
+  151  ssh -i "mynewkey.pem" ec2-user@18.191.157.176
+  152  ssh -i "mynewkey.pem" ec2-user@13.58.112.33
+  153  chmod 400 mynewkey.pem
+  154  ssh -i "mynewkey.pem" ec2-user@13.58.112.33
+  155  ls
+  156  ls
+  157  lsls
+  158  ls
+  159  ec2-user
+  160  sudo -i
+  161  ssh -i "mynewkey.pem" ec2-user@13.58.112.33
+  162  ssh -i "mynewkey.pem" ec2-user@13.58.48.79
+  163  sudo -i
+  164  clear
+  165  ssh -i "mynewkey.pem" ec2-user@13.58.48.79
+  166  dir
+  167  sudo -i
+  168  clear
+  169  ls
+  170  dir
+  171  chmod 400 mynewkey.pem
+  172  sudo -i
+  173  ssh -i "mynewkey.pem" ec2-user@172.0.212.111
+  174  sudo adduser git
+  175  su git
+  176  /usr/bin/sudo
+  177  ssh -i "mynewkey.pem" ec2-user@3.16.212.254
+  178  exit
+  179  ssh -i "mynewkey.pem" ec2-user@18.216.200.190
+  180  ssh -i "mynewkey.pem" ec2-user@ec2-52-15-92-232
+  181  ssh -i "mynewkey.pem" ec2-user@ec2-52-15-92-232.us-east-2.compute.amazonaws.coms
+  182  ssh -i "mynewkey.pem" ec2-user@18.216.200.190
+  183  logout
+  184  ssh -i "mynewkey.pem" ec2-user@ec2-18-222-68-190.us-east-2.compute.amazonaws.com
+  185  yes
+  186  ssh -i "mynewkey.pem" ec2-user@ec2-18-222-68-190.us-east-2.compute.amazonaws.com
+  187  ssh -i "mynewkey.pem" ec2-user@18.191.254.90
+  188  ssh -i "mynewkey.pem" ec2-user@18.222.113.206
+  189  exit
+  190  ssh -i "mynewkey.pem" ec2-user@ec2-18-219-203-153.us-east-2.compute.amazonaws.com
+  191  ls
+  192  exit
+  193  ssh -i "mynewkey.pem" ec2-user@18.223.106.243
+  194  exit
+  195  ssh -i "mynewkey.pem" ec2-user@18.218.62.141
+  196  ls
+  197  logout
+  198  ssh -i "mynewkey.pem" ec2-user@13.59.252.137
+  199  ssh -i "mynewkey.pem" ec2-user@18.216.52.80
+  200  ls
+  201  cd
+  202  exit
+  203  ssh -i "mynewkey.pem" ec2-user@18.221.11.57
+  204  exit
+  205  ssh -i "mynewkey.pem" ec2-user@52.14.71.173
+  206  git clone https://github.com/r-geetha8/myrepo.git
+  207  pwd
+  208  cd myrepo
+  209  ls
+  210  git log
+  211  vi README.md
+  212  git show cf170114402f7290f4d932bcd4fd2c3780ffb15e
+  213  git rev-list --all --count
+  214  vi index.html
+  215  git ls-files
+  216  git status
+  217  git add index.html
+  218  ls
+  219  git status
+  220  git commit
+  221  git commit --global --edit
+  222  git config user.name "Geetha"
+  223  git config user.email "r_geetha8@yahoo.co.uk"
+  224  git log
+  225  vi contact.html
+  226  ls
+  227  git log
+  228  git status
+  229  git add contact.html
+  230  git commit -m "Created Contact.html"
+  231  ls
+  232  git log
+  233  git status
+  234  git log 
+  235  git log
+  236  git show 078f9b4f156bf437fdc57889ddf8efb31b9c71ae
+  237  git log
+  238  vi initial.html
+  239  vi Contact.html
+  240  git add .
+  241  git log --oneline
+  242  git commit -a -m "committing the file without adding"
+  243  ls
+  244  git show
+  245  ls
+  246  git log
+  247  git log --a --m
+  248  git add .
+  249  git add *
+  250  git status
+  251  git log --oneline
+  252  ls
+  253  vi index.html 
+  254  git status
+  255  git diff index.html
+  256  git add *
+  257  git status
+  258  git diff index.html
+  259  git diff --cached index.html
+  260  git diff
+  261  git diff --cached
+  262  vi contact.html 
+  263  git add *
+  264  git diff --cached
+  265  clear
+  266  git status
+  267  git commit
+  268  git commit
+  269  git status
+  270  git diff index.html
+  271  git log --oneline
+  272  git show 1fe0c4b
+  273  git status
+  274  vi index.html 
+  275  git status
+  276  git add *
+  277  git status
+  278  git reset HEAD index.html
+  279  git status
+  280  clear
+  281  git status
+  282  git commit -a -m "commting index file"
+  283  clear
+  284  git log --oneline
+  285  rm contact.html 
+  286  ls
+  287  git ls-files'
+
+  288  git ls-files
+  289  ls
+  290  git status
+  291  git rm contact.html
+  292  git status
+  293  git ls-files
+  294  git reset HEAD contact.html
+  295  git ls-files
+  296  ls
+  297  git status
+  298  git checkout -- contact.html
+  299  ls
+  300  git status
+  301  rm contact.html 
+  302  ls
+  303  git ls-files
+  304  git status
+  305  git rm contact.html
+  306  git ls-files
+  307  ls
+  308  git status
+  309  git reset HEAD contact.html
+  310  git status
+  311  git checkout -- contact.html
+  312  ls
+  313  history > commands.txt
